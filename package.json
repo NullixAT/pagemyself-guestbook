@@ -1,0 +1,15 @@
+{
+  "name": "pagemyself-guestbook",
+  "description": "A simple built-in guestbook module for PageMyself.",
+  "version": "0.4.0",
+  "framelix": {
+    "module": "Guestbook"
+  },
+  "pagemyself": {
+    "minMajorVersion": 0,
+    "maxMajorVersion": 1,
+    "categories": [
+      "pageblock"
+    ]
+  }
+}
